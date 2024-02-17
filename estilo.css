@@ -13,16 +13,31 @@ body{
 }
 
 .mae{
-    color: blue;
-    background-color:yellow;
-    width: 200px;
-    height: 300px;
-    margin: 0 auto;
+    background-color: rgb(96, 78, 112);
+        width: 85%;
+        height: 668px;
+        margin: 0 auto;
+        padding-top: 50px;
+        border-radius: 20px;
 
 
 }
 .links{
-    background-color: brown;
+    background-color: rgb(163, 165, 42);
+        width: 85%;
+        height: 60px;
+        margin:0px auto 80px;
+        text-align: center;
+        padding-top:30px ;
+        border-radius: 15px;
+}
+a{
+     text-decoration: none;
+        color: white;
+}
+.insta img{
+     width: 100px;
+        margin-left: 35px;
 }
 
 @media (max-width:720px){
