@@ -36,8 +36,8 @@ a{
         color: white;
 }
 .insta img{
-     width: 100px;
-        margin-left: 35px;
+     width: 300px;
+        margin-left: 70px;
 }
 
 @media (max-width:720px){
